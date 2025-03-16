@@ -155,10 +155,10 @@ if __name__ == "__main__":
         print("5. Commit & Push File")
         print("6. Create Issue")
         print("7. Create Pull Request")
-        print("8. Merge Pull Request")  # New
+        print("8. Merge Pull Request")  
         print("9. Clone Repo")
         print("10. List My Repos")
-        print("11. Search Public Repos")  # New
+        print("11. Search Public Repos") 
         print("12. Add Collaborator")
         print("13. Exit")
         
